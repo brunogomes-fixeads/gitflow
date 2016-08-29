@@ -3,5 +3,10 @@
         "name" : "Ricardo Batista",
         "email" : "ricardo.batista@olx.com",
         "departament" : "Space Cake Cars"
-    }
+    },
+    {
+        "name" : "Bruno Gomes",
+        "email" : "bruno.gomes@olx.com",
+        "departament" : "Top secret stuff"
+    }	
 ]
